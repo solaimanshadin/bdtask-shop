@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "name": "LG 12' tv",
+        "image": "http://www.lg.com/us/images/tvs/md05802269/gallery/medium01.jpg",
+        "regularPrice": 7321.00,
+        "sellPrice": 5693.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": false,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    },
+    {
+        "id": 2,
+        "name": "Pansonic Tv",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Ekm1BJYbL._SX355_.jpg",
+        "regularPrice": 8321.00,
+        "sellPrice": 8321.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": true,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": true
+        }
+    },
+    {
+        "id": 3,
+        "name": "Sharp Food processor",
+        "image": "http://www.220-electronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/l/black-decker-fx810-220-volt-food-processor.png",
+        "regularPrice": 6721.00,
+        "sellPrice": 5693.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": true,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    },
+    {
+        "id": 4,
+        "name": "Toshiba Tv",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Ekm1BJYbL._SX355_.jpg",
+        "regularPrice": 7321.00,
+        "sellPrice": 5693.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": false,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    },
+    {
+        "id": 5,
+        "name": "Vizeo Tv",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Ekm1BJYbL._SX355_.jpg",
+        "regularPrice": 7321.00,
+        "sellPrice": 5693.00,
+        "tag": "off",
+        "delivery": "Regular",
+        "isHotDeal": true,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    },
+    {
+        "id": 6,
+        "name": "Sony WNC Headset",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "regularPrice": 7321.00,
+        "sellPrice": 5693.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": true,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    },
+    {
+        "id": 7,
+        "name": "Sony WNC Headset",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "regularPrice": 7321.00,
+        "sellPrice": 5693.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": true,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    },
+    {
+        "id": 8,
+        "name": "Sony WNC Headset",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "regularPrice": 7321.00,
+        "sellPrice": 5693.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": true,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    },
+    {
+        "id": 9,
+        "name": "Sony WNC Headset",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "regularPrice": 7321.00,
+        "sellPrice": 5693.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": true,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    },
+    {
+        "id": 10,
+        "name": "Sony WNC Headset last",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "regularPrice": 7321.00,
+        "sellPrice": 5693.00,
+        "tag": "bestSeller",
+        "delivery": "Express",
+        "isHotDeal": true,
+        "isNewProduct": true,
+        "isFeatured": true,
+        "isTrending": true,
+        "rating":  {
+            "point": 5,
+            "count": 100
+        },
+        "points":  700,
+        "seller": {
+            "name": "Noor Novi",
+            "isVerifiedSeller": false
+        }
+    }
+   
+]
