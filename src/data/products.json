@@ -31,7 +31,7 @@
         "delivery": "Express",
         "isHotDeal": true,
         "isNewProduct": true,
-        "isFeatured": true,
+        "isFeatured": false,
         "isTrending": true,
         "rating":  {
             "point": 5,
@@ -75,7 +75,7 @@
         "delivery": "Express",
         "isHotDeal": false,
         "isNewProduct": true,
-        "isFeatured": true,
+        "isFeatured": false,
         "isTrending": true,
         "rating":  {
             "point": 5,
