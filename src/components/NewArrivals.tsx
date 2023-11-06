@@ -1,7 +1,5 @@
-import { useState } from 'react';
 import { Product } from '../types'
 import ProductCard from './ProductCard';
-import { BiSolidLeftArrow, BiSolidRightArrow } from 'react-icons/bi'
 interface Props {
     products: Product[]
 }
